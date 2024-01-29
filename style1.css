@@ -1,9 +1,25 @@
 * {
     font-size: 30px;
     background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
     font-size: 60px;
 }
 
+a:link {
+    color:aqua;
+}
+
+a:visited {
+    color:firebrick;
+}
+
+a:hover {
+    color:blueviolet;
+}
+
+a:active {
+    color:salmon;
+}
